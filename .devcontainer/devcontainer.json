@@ -1,0 +1,5 @@
+{
+	"name": "COI",
+	"image": "mcr.microsoft.com/devcontainers/python:0-3.11",
+	"postCreateCommand": "pip install --upgrade pip && pip3 install --user -r requirements.txt && mkdocs new ."
+}
