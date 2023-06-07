@@ -1,1 +1,5 @@
 mkdocs-material
+pillow
+cairosvg
+urllib3
+mkdocs-minify-plugin
