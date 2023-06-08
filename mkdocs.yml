@@ -48,6 +48,9 @@ extra:
     - icon: fontawesome/brands/youtube
       link: https://youtube.com/@patashale
       name: Patashale™ on YouTube
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/@constitution-of-india
+      name: Constitution of India on YouTube
 
 nav:
   - Know before you start: index.md
