@@ -1,4 +1,4 @@
-![coi social banner](https://github.com/patashale/coi/assets/68323012/02891c58-3b19-41ed-8816-524ca83e01c6)
+![coi social banner](https://github.com/patashale/coi/assets/68323012/c3e6344e-1aa0-4eab-95fe-76570727ab39)
 
 ### 🎯 Objective
 
