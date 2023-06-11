@@ -43,6 +43,6 @@ COI logo in English | COI logo in Sanskrit | COI logo in Kannada
 :-------------------------:|:-------------------------:|:-------------------------:
 ![COI logo in English](https://github.com/patashale/coi/assets/68323012/67a6c7e3-47b6-4e94-b4a2-b40bc687a4dc) | ![COI logo in Sanskrit](https://github.com/patashale/coi/assets/68323012/06f0f65b-4269-4f13-9475-773cedfd437f) | ![COI logo in Kannada](https://github.com/patashale/coi/assets/68323012/1a6156db-dcdb-4287-bbe2-f2b1d51e5903)
 
-> Note: We will add more Indian languages with the same style of logo when there is a requirement and enough contributors who can validate the language and grammar. 
+> Note: We will add more Indian languages with the same style of logo when there is a requirement and enough contributors who can write, validate content in their language, and approve the grammar used.
 >
 > At the moment, we don't have knowledge of other Indian languages or can be sure if the translation is accurate; hence, we do not want to hurt the sentiment of other Indian language-speaking people, so we abstain from posting the logos and contents.
