@@ -7,7 +7,7 @@ repo_name: patashale/coi
 theme:
   name: material
   logo: assets/logo.png
-  favicon: assets/favicon.png
+  favicon: assets/logo.png
   language: en
   palette:
     - media: "(prefers-color-scheme: light)"
