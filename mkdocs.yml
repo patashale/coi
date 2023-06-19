@@ -55,8 +55,18 @@ extra:
       link: https://youtube.com/@constitution-of-india
       name: Constitution of India on YouTube
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 nav:
   - Know before you start: index.md
   - Preamble: en/preamble.md
+  - Part 1 - The Union and its territory:
+    - Article 1: en/1.md
+    - Article 2: en/2.md
+    - Article 3: en/3.md
+    - Article 4: en/4.md
 
 copyright: Copyright &copy; 2023 Patashale™
