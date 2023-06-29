@@ -26,6 +26,7 @@ theme:
         name: Switch to light mode
   features:
     - navigation.footer
+    - content.tooltips
 
 extra_css:
   - stylesheets/extra.css
@@ -59,6 +60,18 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - abbr
+  - attr_list
+  - pymdownx.snippets
+
+plugins:
+  - search:
+      lang: en
+  - minify:
+      minify_html: true
+  - social:
+      cards_layout_options:
+        background_color: "#06038D"
 
 nav:
   - Know before you start: index.md
@@ -135,5 +148,126 @@ nav:
     - Article 51: en/51.md
   - Part 4A - Fundamental duties:
     - Article 51A: en/51A.md
+  - Part 5 - The Union:
+    - Chapter 1 - The Executive:
+      - The President and Vice President:
+        - Article 52: en/52.md
+        - Article 53: en/53.md
+        - Article 54: en/54.md
+        - Article 55: en/55.md
+        - Article 56: en/56.md
+        - Article 57: en/57.md
+        - Article 58: en/58.md
+        - Article 59: en/59.md
+        - Article 60: en/60.md
+        - Article 61: en/61.md
+        - Article 62: en/62.md
+        - Article 63: en/63.md
+        - Article 64: en/64.md
+        - Article 65: en/65.md
+        - Article 66: en/66.md
+        - Article 67: en/67.md
+        - Article 68: en/68.md
+        - Article 69: en/69.md
+        - Article 70: en/70.md
+        - Article 71: en/71.md
+        - Article 72: en/72.md
+        - Article 73: en/73.md
+        - Article 74: en/74.md
+        - Article 75: en/75.md
+      - The Attorney-General for India:
+        - Article 76: en/76.md
+      - Conduct of government business:
+        - Article 77: en/77.md
+        - Article 78: en/78.md
+    - Chapter 2 - Parliment:
+      - General:
+        - Article 79: en/79.md
+        - Article 80: en/80.md
+        - Article 81: en/81.md
+        - Article 82: en/82.md
+        - Article 83: en/83.md
+        - Article 84: en/84.md
+        - Article 85: en/85.md
+        - Article 86: en/86.md
+        - Article 87: en/87.md
+        - Article 88: en/88.md
+        - Article 89: en/89.md
+        - Article 90: en/90.md
+        - Article 91: en/91.md
+        - Article 92: en/92.md
+        - Article 93: en/93.md
+        - Article 94: en/94.md
+        - Article 95: en/95.md
+        - Article 96: en/96.md
+        - Article 97: en/97.md
+        - Article 98: en/98.md
+        - Article 99: en/99.md
+        - Article 100: en/100.md
+      - Disqualifications of members:
+        - Article 101: en/101.md
+        - Article 102: en/102.md
+        - Article 103: en/103.md
+        - Article 104: en/104.md
+      - Powers, privileges and immunities of parliament and its members:
+        - Article 105: en/105.md
+        - Article 106: en/106.md
+      - Legislative procedure:
+        - Article 107: en/107.md
+        - Article 108: en/108.md
+        - Article 109: en/109.md
+        - Article 110: en/110.md
+        - Article 111: en/111.md
+      - Procedure in financial matters:
+        - Article 112: en/112.md
+        - Article 113: en/113.md
+        - Article 114: en/114.md
+        - Article 115: en/115.md
+        - Article 116: en/116.md
+        - Article 117: en/117.md
+      - Procedure generally:
+        - Article 118: en/118.md
+        - Article 119: en/119.md
+        - Article 120: en/120.md
+        - Article 121: en/121.md
+        - Article 122: en/122.md
+    - Chapter 3 — Legislative powers of the president:
+        - Article 123: en/123.md
+    - Chapter 4 - The union judiciary:
+        - Article 124: en/124.md
+        - Article 124A: en/124A.md
+        - Article 124B: en/124B.md
+        - Article 124C: en/124C.md
+        - Article 125: en/125.md
+        - Article 126: en/126.md
+        - Article 127: en/127.md
+        - Article 128: en/128.md
+        - Article 129: en/129.md
+        - Article 130: en/130.md
+        - Article 131: en/131.md
+        - Article 132: en/132.md
+        - Article 133: en/133.md
+        - Article 134: en/134.md
+        - Article 134A: en/134A.md
+        - Article 135: en/135.md
+        - Article 136: en/136.md
+        - Article 137: en/137.md
+        - Article 138: en/138.md
+        - Article 139: en/139.md
+        - Article 139A: en/139A.md
+        - Article 140: en/140.md
+        - Article 141: en/141.md
+        - Article 142: en/142.md
+        - Article 143: en/143.md
+        - Article 144: en/144.md
+        - Article 145: en/145.md
+        - Article 146: en/146.md
+        - Article 147: en/147.md
+    - Chapter 5 - Comptroller and auditor-general of India:
+        - Article 148: en/148.md
+        - Article 149: en/149.md
+        - Article 150: en/150.md
+        - Article 151: en/151.md
+
 
 copyright: <a property="dct:title" rel="cc:attributionURL" href="https://www.patashale.in/coi">Constitution of India</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.github.com/patashale">Patashale™</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0</a> & <a href="https://www.gnu.org/licenses/agpl-3.0" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">AGPL 3.0</a>
