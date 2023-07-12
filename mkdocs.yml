@@ -62,6 +62,7 @@ markdown_extensions:
   - pymdownx.superfences
   - abbr
   - attr_list
+  - md_in_html
   - pymdownx.snippets
 
 plugins:
@@ -268,6 +269,110 @@ nav:
         - Article 149: en/149.md
         - Article 150: en/150.md
         - Article 151: en/151.md
-
+  - Part 6 - The States:
+    - Chapter 1 - General:
+      - Article 152: en/152.md
+    - Chapter 2 - Executive:
+      - Governor:
+        - Article 153: en/153.md
+        - Article 154: en/154.md
+        - Article 155: en/155.md
+        - Article 156: en/156.md
+        - Article 157: en/157.md
+        - Article 158: en/158.md
+        - Article 159: en/159.md
+        - Article 160: en/160.md
+        - Article 161: en/161.md
+        - Article 162: en/162.md
+      - Council of ministers:
+        - Article 163: en/163.md
+        - Article 164: en/164.md
+      - The advocate-general for the state:
+        - Article 165: en/165.md
+      - Conduct of government business:
+        - Article 166: en/166.md
+        - Article 167: en/167.md
+    - Chapter 3 - State legislature:
+      - General:
+        - Article 168: en/168.md
+        - Article 169: en/169.md
+        - Article 170: en/170.md
+        - Article 171: en/171.md
+        - Article 172: en/172.md
+        - Article 173: en/173.md
+        - Article 174: en/174.md
+        - Article 175: en/175.md
+        - Article 176: en/176.md
+        - Article 177: en/177.md
+      - Officers of the state legislature:
+        - Article 178: en/178.md
+        - Article 179: en/179.md
+        - Article 180: en/180.md
+        - Article 181: en/181.md
+        - Article 182: en/182.md
+        - Article 183: en/183.md
+        - Article 184: en/184.md
+        - Article 185: en/185.md
+        - Article 186: en/186.md
+        - Article 187: en/187.md
+      - Conduct of business:
+        - Article 188: en/188.md
+        - Article 189: en/189.md
+      - Disqualification of members:
+        - Article 190: en/190.md
+        - Article 191: en/191.md
+        - Article 192: en/192.md
+        - Article 193: en/193.md
+      - Powers, privileges and immunities of state legislatures and their members:
+        - Article 194: en/194.md
+        - Article 195: en/195.md
+      - Legislature procedure:
+        - Article 196: en/196.md
+        - Article 197: en/197.md
+        - Article 198: en/198.md
+        - Article 199: en/199.md
+        - Article 200: en/200.md
+        - Article 201: en/201.md
+      - Procedure in financial matters:
+        - Article 202: en/202.md
+        - Article 203: en/203.md
+        - Article 204: en/204.md
+        - Article 205: en/205.md
+        - Article 206: en/206.md
+        - Article 207: en/207.md
+      - Procedure generally:
+        - Article 208: en/208.md
+        - Article 209: en/209.md
+        - Article 210: en/210.md
+        - Article 211: en/211.md
+        - Article 212: en/212.md
+    - Chapter 4 - Legislature power of the governor:
+      - Article 213: en/213.md
+    - Chapter 5 - The high courts in the states:
+      - Article 214: en/214.md
+      - Article 215: en/215.md
+      - Article 216: en/216.md
+      - Article 217: en/217.md
+      - Article 218: en/218.md
+      - Article 219: en/219.md
+      - Article 220: en/220.md
+      - Article 221: en/221.md
+      - Article 222: en/222.md
+      - Article 223: en/223.md
+      - Article 224: en/224.md
+      - Article 224A: en/224A.md
+      - Article 225: en/225.md
+      - Article 226: en/226.md
+      - Article 227: en/227.md
+      - Article 228: en/228.md
+      - Article 229: en/229.md
+      - Article 230: en/230.md
+      - Article 231: en/231.md
+      - Article 233: en/233.md
+      - Article 233A: en/233A.md
+      - Article 234: en/234.md
+      - Article 235: en/235.md
+      - Article 236: en/236.md
+      - Article 237: en/237.md
 
 copyright: <a property="dct:title" rel="cc:attributionURL" href="https://www.patashale.in/coi">Constitution of India</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.github.com/patashale">Patashale™</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0</a> & <a href="https://www.gnu.org/licenses/agpl-3.0" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">AGPL 3.0</a>
